@@ -18,3 +18,13 @@
     cursor: pointer;
     border-radius: 12px;
 }
+
+.hello:hover {
+    background-color: lightblue;
+    color: black;
+}
+
+.hello:active {
+    background-color: navy;
+    color: white;
+}
